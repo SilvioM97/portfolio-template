@@ -17,7 +17,7 @@ affiliation_url: "https://di.unipi.it/"
 # bio: >
 #   Short bio here (1-3 sentences). Research areas, advisor (optional), lab group, and interests.
 
-photo: "/assets/me.jpeg" # e.g., /assets/img/me.jpg — leave empty to hide the propic automatically
+photo: "assets/me.jpeg" # e.g., /assets/img/me.jpg — leave empty to hide the propic automatically
 # Optional links (leave any blank to hide)
 scholar: "https://scholar.google.com/citations?user=RPDQv_gAAAAJ" # e.g., https://scholar.google.com/citations?user=XXXX
 orcid: "https://orcid.org/0009-0005-7280-6147" # e.g., https://orcid.org/0000-0000-0000-0000
