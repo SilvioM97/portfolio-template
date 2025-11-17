@@ -1,7 +1,6 @@
-name: "Your Name"
+name: "Silvio Martinico"
 role: "PhD Student"
-email: "your.email@phd.unipi.it"
-phone: "+39 050 221XXXX"
+email: "silvio.martinico@phd.unipi.it"
 address:
   street: "Largo Bruno Pontecorvo 3"
   city: Pisa
@@ -10,19 +9,17 @@ address:
   country: Italy
   country_code: IT
 directions: Department of Computer Science, Floor 2
-room: Room YYY
+room: Room 298B
 
 affiliation: "Department of Computer Science, University of Pisa"
 affiliation_url: "https://di.unipi.it/"
 
-bio: >
-  Short bio here (1-3 sentences). Research areas, advisor (optional), lab group, and interests.
+# bio: >
+#   Short bio here (1-3 sentences). Research areas, advisor (optional), lab group, and interests.
 
-photo: "/assets/img/me.png" # e.g., /assets/img/me.jpg — leave empty to hide the propic automatically
+photo: "/assets/me.jpeg" # e.g., /assets/img/me.jpg — leave empty to hide the propic automatically
 # Optional links (leave any blank to hide)
-website: ""
-scholar: "" # e.g., https://scholar.google.com/citations?user=XXXX
-orcid: "" # e.g., https://orcid.org/0000-0000-0000-0000
-github: ""
-twitter: ""
-linkedin: ""
+scholar: "https://scholar.google.com/citations?user=RPDQv_gAAAAJ" # e.g., https://scholar.google.com/citations?user=XXXX
+orcid: "https://orcid.org/0009-0005-7280-6147" # e.g., https://orcid.org/0000-0000-0000-0000
+github: "https://github.com/SilvioM97"
+linkedin: "https://www.linkedin.com/in/silvio-martinico-434285221/"

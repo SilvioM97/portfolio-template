@@ -1,7 +1,7 @@
 title: "Your Name Portfolio"
 description: "PhD Student in Department of Computer Science @ University of Pisa"
 url: "https://di-unipi.github.io/" # e.g., https://username.github.io
-baseurl: "portfolio-template" # e.g., /portfolio if publishing under a subpath
+baseurl: "" # e.g., /portfolio if publishing under a subpath
 
 # Publications section behavior
 publications:

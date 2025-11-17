@@ -3,41 +3,54 @@ education:
     institution: "University of Pisa"
     institution_url: "https://di.unipi.it/"
     location: "Pisa, Italy"
-    period: "2023 - present"
+    period: "2023 - ongoing"
     description: >
-      Researching about very interesting topics, that only me and my advisor understand.
+      Researching Information Retrieval with a focus on efficiency and Approximate Nearest Neighbors (ANN) Search.
 
-  - title: "MSc in Artificial Intelligence and Weird Stuff"
-    institution: "University of Neverland"
-    institution_url: "https://www.youtube.com/watch?v=4SK1KN6ToNw"
-    location: "Never Never, Neverland"
-    period: "2021 - 2023"
+  - title: "MSc in Computer Science"
+    institution: "University of Pisa"
+    institution_url: "https://di.unipi.it/"
+    location: "Pisa, Italy"
+    period: "October 6, 2023"
     description: >
-      Graduated with honors. Thesis on deep learning for automated theorem proving.
+      Graduated with honors. Thesis on Approximate Nearest Neighbors Search.
 
-  - title: "BSc in Computer Science"
-    institution: "University of Atlantis"
-    institution_url: "https://it.wikipedia.org/wiki/Atlantis_-_L%27impero_perduto"
-    location: "Atlantis, Arctic"
-    period: "2018 - 2021"
+  - title: "BSc in Mathematics"
+    institution: "University of Pisa"
+    institution_url: "https://di.unipi.it/"
+    location: "Pisa, Italy"
+    period: "May 14, 2021"
     description: >
-      Graduated with honors. Thesis on distributed systems for underwater basket weaving.
-    thesis: "assets/img/me.png"
+      Thesis on the nature and computability of exponential algebraic structures.
+    thesis: "https://drive.google.com/file/d/1dQqOjyA4QAJGRgEk5PIQ_rYHX21DRhra/view"
 
 work:
-  - title: "Research Intern"
-    institution: "Very Peculiar Institute"
-    institution_url: "https://www.example.com/"
-    location: "Forlì, Italy"
-    period: "Summer 2022"
+  - title: "Research Associate"
+    institution: "ISTI-CNR"
+    institution_url: "https://www.isti.cnr.it/"
+    location: "Pisa, Italy"
+    period: "2023 - ongoing"
     description: >
-      Worked in the best city of the world.
-    thesis: "https://example.com/phd_thesis.pdf"
+      I carry out part of my research as a PhD student at the HPC Lab of ISTI-CNR.
+
+  - title: "Visiting Researcher"
+    institution: "University of Tokyo"
+    institution_url: "https://www.u-tokyo.ac.jp/ja/index.html"
+    location: "Tokyo, Japan"
+    period: "02/2025 - 03/2025"
 
   - title: "Teaching Assistant"
     institution: "University of Pisa"
     institution_url: "https://di.unipi.it/"
     location: "Pisa, Italy"
-    period: "2023 - present"
+    period: "03/2024 - 06/2024"
     description: >
-      Helping brilliant students and clever graders survive machine learning assignments with dignity.
+      Held weekly office hours for students enrolled in the Algorithms and Data Structures course within the M.Sc. program in Data Science.
+
+  - title: "Research Grant"
+    institution: "ISTI-CNR"
+    institution_url: "https://www.isti.cnr.it/"
+    location: "Pisa, Italy"
+    period: "02/2023 - 08/2023"
+    description: >
+      Implemented efficient data structures for Similarity Search.
