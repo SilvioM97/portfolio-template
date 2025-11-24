@@ -45,7 +45,7 @@ work:
     location: "Pisa, Italy"
     period: "03/2024 - 06/2024"
     description: >
-      Held weekly office hours for students enrolled in the Algorithms and Data Structures course within the M.Sc. program in Data Science.
+      Held weekly office hours for students of the Algorithms and Data Structures course within the M.Sc. program in Data Science.
 
   - title: "Research Grant"
     institution: "ISTI-CNR"
@@ -53,4 +53,4 @@ work:
     location: "Pisa, Italy"
     period: "02/2023 - 08/2023"
     description: >
-      Implemented efficient data structures for Similarity Search.
+      Implemented efficient data structures for vectors retrieval.
